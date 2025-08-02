@@ -1,3 +1,7 @@
+export const metadata: Metadata = {
+  title: "Customers | Acme Dashboard",
+};
+
 export default function Customers() {
   return <p>Customerssss</p>;
 }
